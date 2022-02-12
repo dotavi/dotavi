@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Avinash Sewpersadh
 
-- 🔭 I’m currently working on ... Setting up CI/CD pipelines for UiPath Bots 
+- 🔭 I’m currently working on ... Backend Design NodeJS+Typescript API's with MongoDB 
 - 🌱 I’m currently learning ... UiPath, OpenRPA TagUi
 - 👯 I’m looking to collaborate on ... RPA Projects
 - 🤔 I’m looking for help with ...
