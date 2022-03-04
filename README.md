@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Avinash Sewpersadh
 
-- 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript with MongoDB, and Firebase for Real-time Comms
+- 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript
 - 🌱 I’m currently learning ... UiPath, React Native
 - 💬 Ask me about ... TmForum SID, Telecomms
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/avinashsewpersadh)        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
