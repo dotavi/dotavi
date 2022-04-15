@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Avinash Sewpersadh
 
 - 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript, Front-end Design with React
-- 🌱 I’m currently learning ... GatsbyJS, React Native,μ-services, 
--                               Writing robust production quality code
+- 🌱 I’m currently learning ... GatsbyJS, React Native,μ-services, and Writing robust production quality code
 - 💬 Ask me about ... TmForum SID, Telecomms, 
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/avinashsewpersadh)        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
 
