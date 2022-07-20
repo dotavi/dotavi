@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Avinash Sewpersadh
 
-- 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript, Front-end Design with React
-- 🌱 I’m currently learning ... Next.js, React Native,μ-services, and Writing robust production quality code
+- 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript, Front-end Design with React/React Native
+- 🌱 I’m currently learning ... Next.js, React Native, migrating to μ-services in Node.js
 - 💬 Ask me about ... TmForum SID, Open Data Architecture, Telecomms operating models
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/avinashsewpersadh)        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
 
