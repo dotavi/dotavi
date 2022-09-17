@@ -1,7 +1,11 @@
-### Hi there 👋, I'm Avinash Sewpersadh
+### Howzit, I'm Avinash Sewpersadh
 
 - 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript, Front-end Design with React/React Native
+-> Bun/Deno Migration
 - 🌱 I’m currently learning ... Next.js, React Native, μ-services with Express
+
+->Shared Element Transitions
+->
 - 💬 Ask me about ... TmForum SID, Open Data Architecture, Telecom operating models, OpenAPI Spec.
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/avinashsewpersadh)        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
 
