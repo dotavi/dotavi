@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript, Front-end Design with React/React Native
 -> Bun/Deno Migration
-- 🌱 I’m currently learning ... Next.js, React Native, μ-services with Express
+- 🌱 I’m currently learning ... Kafka, Cloudflare Service Workers, Redis
 
-->Shared Element Transitions
+->Shared Element Transitions in RN
 ->
 - 💬 Ask me about ... TmForum SID, Open Data Architecture, Telecom operating models, OpenAPI Spec.
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/avinashsewpersadh)        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
