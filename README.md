@@ -1,6 +1,6 @@
 ### Howzit, I'm Avinash Sewpersadh
 
-- 🔭 I’m currently working on ... Backend Design using NodeJS+Typescript, Front-end Design with React/React Native
+- 🔭 I’m currently working on ... Separating Client state- and Server State Management in React Native.
 -> Bun/Deno Migration
 - 🌱 I’m currently learning ... Kafka, Cloudflare Service Workers, Redis
 
