@@ -1,10 +1,11 @@
 ### Howzit, I'm Avinash Sewpersadh
 
-- 🔭 I’m currently working on ... Separating Client state- and Server State Management in React Native.
--> Bun/Deno Migration
+- 🔭 I’m currently working on ... Separating Client state- and Server State Management in React Native for performance increases (Redux and React Query)
+- Deno Migration investigation
+- 
 - 🌱 I’m currently learning ... Kafka, Cloudflare Service Workers, Redis
 
-->Shared Element Transitions in RN
+- Shared Element Transitions in RN
 ->
 - 💬 Ask me about ... TmForum SID, Open Data Architecture, Telecom operating models, OpenAPI Spec.
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/avinashsewpersadh)        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
