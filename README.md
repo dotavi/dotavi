@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on ... Separating Client state- and Server State Management in React Native for performance increases (Redux and React Query)
 - Deno Migration investigation
 - Google Cloud Run. Cloud Build, Functions, Pub/Sub (and CI/CD via Actions)
-
-- 🌱 I’m currently learning ... Kafka, Cloudflare Service Workers, Redis
+- 🌱 I’m currently learning ...Cloudflare Service Workers, Redis
 - Shared Element Transitions in RN
 
 SKILLS
