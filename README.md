@@ -1,6 +1,6 @@
 ### Howzit, I'm Avinash Sewpersadh
 
-- 🔭 I’m currently working on ... Separating Client state- and Server State Management in React Native for performance increases (Redux and React Query)
+- 🔭 Interests ... Separating Client state- and Server State Management in React Native for performance increases (Redux and React Query)
 - Deno/Bun
 - Shared Element Transitions in RN
 
