@@ -1,4 +1,4 @@
-### Howzit, I'm Avinash Sewpersadh
+### Welcome, I'm Avinash Sewpersadh
 
 - 🔭 Interests ... Separating Client state- and Server State Management in React Native for performance increases (Redux and React Query)
 - Deno/Bun
