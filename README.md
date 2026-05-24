@@ -1,18 +1,15 @@
-### Welcome, I'm Avinash Sewpersadh
+## Avinash Sewpersadh
 
-- 🔭 Interests ... Separating Client state- and Server State Management in React Native for performance increases (Redux and React Query)
-- Deno/Bun
-- Shared Element Transitions in RN
+Software engineer, South Africa.
 
-SKILLS
+I focus on security and telcos BSS, alongside a range of other engineering work. Past few years: e-commerce platforms (Node/TS, Mongo, React Native), a Capacitor + Angular mobile R&D wrapper, and a local-LLM threat scanner running Suricata at the edge.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### Currently building
 
-- 💬 Ask me about ... Bass Fishing
-- 📫 How to reach me: ...        [Twitter ](https://twitter.com/asewpersadh)     [email](mailto:avi.ukzn@gmail.com)
+- A multi-tenant white-label e-commerce SaaS for South African independent retailers, native Android + iOS per store
+- Threat-scanner v1, Suricata + LLM-augmented detection in a portable container, deployed at edge.somethingnew.co.za
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dotavi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&layout=compact">
- -->
+### Contact
+
+- email: avi.ukzn@gmail.com
+- LinkedIn: [dotavi](https://za.linkedin.com/in/dotavi)
